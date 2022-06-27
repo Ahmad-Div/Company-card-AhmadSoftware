@@ -132,6 +132,9 @@ footer {
     .content {
         width: 30rem;
     }
+       footer {
+        top: 8px;
+    }
 }
 
 @media(width:1024px) {
